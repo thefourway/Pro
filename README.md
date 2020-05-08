@@ -6,4 +6,4 @@
 
 2: write necessary git comments to make sure others can understand</br> 
 
-3: all comments and docs should only wriiten in English
+3: all comments and docs should only written in English
